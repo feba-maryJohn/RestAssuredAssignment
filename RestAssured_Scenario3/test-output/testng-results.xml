@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-08T02:12:06 IST" name="Default suite" finished-at="2020-12-08T02:12:09 IST" duration-ms="3261">
+    <groups>
+    </groups>
+    <test started-at="2020-12-08T02:12:06 IST" name="Default test" finished-at="2020-12-08T02:12:09 IST" duration-ms="3261">
+      <class name="responseAssertionStepDef.TestRunner">
+        <test-method signature="test_given_api()[pri:0, instance:responseAssertionStepDef.TestRunner@770d3326]" started-at="2020-12-08T02:12:06 IST" name="test_given_api" finished-at="2020-12-08T02:12:07 IST" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_given_api -->
+        <test-method signature="test_then_validate()[pri:0, instance:responseAssertionStepDef.TestRunner@770d3326]" started-at="2020-12-08T02:12:07 IST" name="test_then_validate" finished-at="2020-12-08T02:12:09 IST" duration-ms="2028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_then_validate -->
+        <test-method signature="test_when_passing()[pri:0, instance:responseAssertionStepDef.TestRunner@770d3326]" started-at="2020-12-08T02:12:09 IST" name="test_when_passing" finished-at="2020-12-08T02:12:09 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_when_passing -->
+      </class> <!-- responseAssertionStepDef.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
