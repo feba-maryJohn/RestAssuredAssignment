@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-08T00:07:43 IST" name="Default suite" finished-at="2020-12-08T00:07:51 IST" duration-ms="7238">
+    <groups>
+    </groups>
+    <test started-at="2020-12-08T00:07:43 IST" name="Default test" finished-at="2020-12-08T00:07:51 IST" duration-ms="7238">
+      <class name="frameworkStepDefinitions.TestRunner">
+        <test-method signature="test_given_api()[pri:0, instance:frameworkStepDefinitions.TestRunner@46fa7c39]" started-at="2020-12-08T00:07:43 IST" name="test_given_api" finished-at="2020-12-08T00:07:44 IST" duration-ms="896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_given_api -->
+        <test-method signature="test_then_validate()[pri:0, instance:frameworkStepDefinitions.TestRunner@46fa7c39]" started-at="2020-12-08T00:07:44 IST" name="test_then_validate" finished-at="2020-12-08T00:07:50 IST" duration-ms="5551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_then_validate -->
+        <test-method signature="test_when_posted()[pri:0, instance:frameworkStepDefinitions.TestRunner@46fa7c39]" started-at="2020-12-08T00:07:50 IST" name="test_when_posted" finished-at="2020-12-08T00:07:51 IST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_when_posted -->
+      </class> <!-- frameworkStepDefinitions.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
